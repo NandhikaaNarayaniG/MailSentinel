@@ -1,0 +1,8 @@
+From: "Bank Support" <fakebank@malicious.co>
+Reply-To: scammer@scamdomain.ru
+Received: from unknown (123.45.67.89)
+
+Dear user,
+Urgent! Your account is locked.
+Click here: <a href="http://badlink.ru">example.com</a>
+Attachment: invoice.exe
