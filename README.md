@@ -45,7 +45,9 @@ cd mailsentinel
 
 Below is an example of the MailSentinel security report:
 
-![Sample HTML Report](path/to/your-screenshot.png)
+![Sample HTML Report](screenshot.png)
+
 
 
 ## 📂 Project Structure
+
